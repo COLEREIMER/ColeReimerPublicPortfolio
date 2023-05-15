@@ -1,4 +1,5 @@
 # Cole Reimer Public Portfolio
-Cole Reimer's public portfolio showcasing relevant information along with some Computer Science Projects
+
+Cole Reimer's public portfolio showcasing relevant information along with a couple Computer Science Projects
 
 
